@@ -134,6 +134,22 @@
 		h2::after {
 			content: "/>";
 		}
+		
+		@media screen and (max-width: 425px) {
+			body {
+				box-sizing: none;
+				width: 100%;
+				height: 100vh;
+			}
+			.terminal {
+				max-width: 85%;
+				padding: 1.8rem;
+				top: -10px;
+			}
+			h2 {
+				margin: 10px 0 0;
+			}
+		}
 	</style>
 
 </head>
