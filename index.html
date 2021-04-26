@@ -21,12 +21,17 @@
 	<style type="text/css">
 		@import 'https://fonts.googleapis.com/css?family=Inconsolata';
 
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+		
 		html {
 		  min-height: 100%;
 		}
 
 		body {
-		  box-sizing: border-box;
 		  height: 100%;
 		  overflow: hidden;
 		  background-color: #000000;
@@ -137,12 +142,11 @@
 		
 		@media screen and (max-width: 425px) {
 			body {
-				box-sizing: none;
 				width: 100%;
 				height: 100vh;
 			}
 			.terminal {
-				max-width: 100%;
+				max-width: 85%;
 				padding: 1.8rem;
 				top: -10px;
 			}
