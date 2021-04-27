@@ -1,6 +1,6 @@
 # SC DEFACE VERSI 4.0
-Versi keempat, dengan tampilan animasi yg menawan. Bertema seperti matrix, dibuat hanya untuk kalian para "Defacer". Tenang kawan, sudah saya bikin responsive.
- :) kamu tinggal pakai saja
+Versi keempat, dengan tampilan animasi matrix seperti ngescan qrcode, dibuat hanya untuk kalian para "Defacer", jadikan sebuah refrensi. Tenang kawan, sudah saya bikin responsive.
+ :) kamu tinggal pakai saja #10hours10project
 
 # Demo Site
 <a href="https://itsmelief.github.io/scdeface-4/">https://itsmelief.github.io/scdeface-4/</a>
